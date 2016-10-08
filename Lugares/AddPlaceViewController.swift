@@ -2,7 +2,7 @@
 //  AddPlaceViewController.swift
 //  Lugares
 //
-//  Created by Rafael Larrosa Espejo on 7/10/16.
+//  Created by Rafael Larrosa Espejo on 8/10/16.
 //  Copyright © 2016 Rafael Larrosa Espejo. All rights reserved.
 //
 
